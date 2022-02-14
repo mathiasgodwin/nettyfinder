@@ -1,0 +1,12 @@
+name: nettyfinder
+description: A flutter package to detect the type of network a phone number belongs to. Credits to Bolaji Ayodeji the original author in javaScript.
+version: 1.0.0
+homepage: https://github.com/mathiasgodwin/nettyfinder
+
+environment:
+  sdk: '>=2.15.1 <3.0.0'
+
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
