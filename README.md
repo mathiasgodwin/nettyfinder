@@ -44,7 +44,7 @@ void main() {
 ```
 
 ## Contribution
-For now, I dont accept contributions except its from the javascript [netty_finder](https://github.com/BolajiAyodeji/netty-finder), so I suggest you contribute there. Any changes from there will be added to the Dart version
+Contributions are welcome.
 
 
 
